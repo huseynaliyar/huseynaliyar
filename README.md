@@ -136,8 +136,8 @@ Senior IT Business Analyst | Ex- **JPMorgan** & **Citi** | 6+ years in Banking T
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
 
 ### Languages & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) _(Internally Certified: Tkinter, PyQt, Pandas, Numpy, Xlwings)_
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) _(Pre-intermediate level)_
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) 
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ### Automation & Process
