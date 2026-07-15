@@ -1,7 +1,7 @@
 # 👨‍💻 Huseyn Mammadli
 
 ## Senior IT Business Analyst
-📧 huseynaliyar@outlook.com | 🌍 Dusseldorf, Germany | 📱 +48 519 565 039 | 🔗 [LinkedIn](#)
+📧 huseynaliyar@outlook.com | 🌍 Dusseldorf, Germany | 📱 +48 519 565 039 | 🔗 [LinkedIn](https://www.linkedin.com/in/huseyn-mammadli-982751133/)
 
 ---
 
